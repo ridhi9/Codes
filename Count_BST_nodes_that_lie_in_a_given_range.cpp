@@ -22,5 +22,5 @@ int getCount(node *root, int low, int high)
     else return getCount(root->left, low, high);
 }
  
-Time complexity: O(H + k) where h is the height of BST and k is the number of nodes in the given range.
-Auxiliary Space: O(n)
+// Time complexity: O(H + k) where h is the height of BST and k is the number of nodes in the given range.
+// Auxiliary Space: O(n)
