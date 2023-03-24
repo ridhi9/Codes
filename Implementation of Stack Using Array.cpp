@@ -104,10 +104,10 @@ int main()
 
 // This code is contributed by rathbhupendra
 
-Operations  	                    Complexity
-Enqueue(insertion)                   	O(1)
-Deque(deletion)                     	O(1)
-Front(Get front)                     	O(1)
-Rear(Get Rear)                      	O(1)
-IsFull(Check queue is full or not)	  O(1)
-IsEmpty(Check queue is empty or not)	O(1)
+// Operations  	                    Complexity
+// Enqueue(insertion)                   	O(1)
+// Deque(deletion)                     	O(1)
+// Front(Get front)                     	O(1)
+// Rear(Get Rear)                      	O(1)
+// IsFull(Check queue is full or not)	  O(1)
+// IsEmpty(Check queue is empty or not)	O(1)
